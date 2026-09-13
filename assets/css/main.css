@@ -3656,3 +3656,12 @@ ul.copyright li {
     color: #636363;
 	width: 130px;
 }
+
+@media screen and (min-width: 900px) {
+	.top_info_wrapper {
+		width: 880px;
+	}
+	.top_info .title {
+		width: 150px;
+	}
+}
